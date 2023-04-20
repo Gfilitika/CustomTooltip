@@ -1,0 +1,20 @@
+.mon-tooltip{
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: auto;
+    right: auto;
+}
+
+.tooltip {
+    position: fixed;
+    background-color: black;
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 3px 6px;
+    font-size: 13px;
+    margin-top: 5px;
+    transform:translateX(-50%);
+    
+  }
